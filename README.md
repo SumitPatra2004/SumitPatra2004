@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, illustrating designs & managing events
 - 🌱 I’m currently learning Python, MySQL & Web development
 - 📫 Reach me through other platforms:
-- LinkedIn: Sumiit Kumar Patra
+- LinkedIn: Sumit Kumar Patra
 - Instagram: _.sumitpatra._
 - X: @imSumitPatra
 
