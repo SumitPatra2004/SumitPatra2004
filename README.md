@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @SumitPatra2004
-- 👀 I’m interested in coding, illustrating designs & managing events...
-- 🌱 I’m currently learning Python, MySQL & Web development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding, illustrating designs & managing events
+- 🌱 I’m currently learning Python, MySQL & Web development
+- 📫 Reach me through other platforms:
+- LinkedIn: Sumiit Kumar Patra
+- Instagram: _.sumitpatra._
+- X: @imSumitPatra
+
 
 <!---
 SumitPatra2004/SumitPatra2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
