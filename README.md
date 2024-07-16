@@ -1,4 +1,4 @@
-![MasterHead](https://media.gifs.nl/interesting-gifs-2p7iBx.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*xL8hHwKah8Jbn7SbaBwQFw.gif)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Patra.</h1>
 <h3 align="center">A passionate developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
