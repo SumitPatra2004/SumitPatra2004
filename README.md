@@ -1,7 +1,7 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://static.wixstatic.com/media/dee3c3_5255733c44104cfea9344cdbec995c97~mv2.gif)
 <h1 align="center">Hi 👋, I'm Sumit Kumar Patra.</h1>
 <h3 align="center">A passionate developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitpatra2004&label=Profile%20views&color=0e75b6&style=flat" alt="sumitpatra2004" /> </p>
 
